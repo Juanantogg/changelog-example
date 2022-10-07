@@ -1,0 +1,13 @@
+{
+  "name": "changelog-example",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Juan Antonio García Guillén<juanantogg@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
