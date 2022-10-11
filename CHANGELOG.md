@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.2.0](https://github.com/Juanantogg/changelog-example/compare/v0.0.2...v0.2.0) (2022-10-11)
+
+
+### setup
+
+* **setup:** added commitzen to automate changelog creation ([f2f65a4](https://github.com/Juanantogg/changelog-example/commit/f2f65a407c645c6ef6370f48a09a9825689d55cc))
+
+
+### docs
+
+* **docs:** commitzen and standard-version were removed to pass the changelog generation to the CI ([53af0ea](https://github.com/Juanantogg/changelog-example/commit/53af0ea4fcf289beece3687ebe92a328520d0d70))
+
+
+### module
+
+* **module:** module src generated ([0bedf04](https://github.com/Juanantogg/changelog-example/commit/0bedf04a06f8fee639779f31b1028a840dbd5c3d))
+
+
+### new-feature-3
+
+* **new-feature-3:** more text added to new-feature-3 ([3340725](https://github.com/Juanantogg/changelog-example/commit/33407258193ca5098921c06cb19268a882844065))
+
 ## [0.1.0](https://github.com/Juanantogg/changelog-example/compare/v0.0.2...v0.1.0) (2022-10-11)
 
 
