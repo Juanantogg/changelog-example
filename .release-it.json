@@ -32,7 +32,7 @@
     "commit": true,
     "commitMessage": "chore: release ${version}",
     "commitArgs": [],
-    "tag": true,
+    "tag": false,
     "tagName": null,
     "tagMatch": null,
     "tagAnnotation": "Release ${version}",
