@@ -37,7 +37,7 @@
     "tagMatch": null,
     "tagAnnotation": "Release ${version}",
     "tagArgs": [],
-    "push": true,
+    "push": false,
     "pushArgs": ["--follow-tags"],
     "pushRepo": ""
   },
