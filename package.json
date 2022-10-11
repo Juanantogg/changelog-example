@@ -5,8 +5,9 @@
   "author": "Juan Antonio García Guillén<juanantogg@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "prepare": "husky install",
-    "release": "release-it"
+    "postinstall": "husky install",
+    "release": "release-it",
+    "test": "echo Hola test"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
