@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.17.0](https://github.com/Juanantogg/changelog-example/compare/v0.1.0...v0.17.0) (2022-10-11)
+
+
+### new-feature-3
+
+* **new-feature-3:** more text added to new-feature-3 ([3340725](https://github.com/Juanantogg/changelog-example/commit/33407258193ca5098921c06cb19268a882844065))
+* **new-feature-3:** more text added to new-feature-3-3 ([ad4ab29](https://github.com/Juanantogg/changelog-example/commit/ad4ab291f5a7b01130cd78b7a021d360cb321ed7))
+
 ## [0.16.0](https://github.com/Juanantogg/changelog-example/compare/v0.1.0...v0.16.0) (2022-10-11)
 
 
