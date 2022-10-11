@@ -16,9 +16,6 @@
           {"type": "perf", "hidden": true},
           {"type": "test", "hidden": true}
         ]
-      },
-      "writerOpts": {
-        "groupBy": "scope"
       }
     }
   },
