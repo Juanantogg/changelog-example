@@ -27,7 +27,7 @@
     "requireCleanWorkingDir": true,
     "requireBranch": "master",
     "requireUpstream": false,
-    "requireCommits": false,
+    "requireCommits": true,
     "addUntrackedFiles": false,
     "commit": true,
     "commitMessage": "chore: release ${version}",
